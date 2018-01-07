@@ -13,6 +13,7 @@ public class CollectionUtils {
 
     public static void test() {
         List<String> list = Lists.newArrayList();
+
     }
 
 
